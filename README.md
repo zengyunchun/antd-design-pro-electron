@@ -1,4 +1,4 @@
-# Intergate Andt-design-pro into Electron
+# intergate antd-design-pro into electron
 
 ## run
 > yarn run electron-dev
